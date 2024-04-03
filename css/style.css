@@ -6,7 +6,7 @@
     width: 100%;
 }
 .container-1200{
-    max-width: 1200px;
+    max-width: 1400px;
 }
 .col-20{
     width: 20%;
@@ -69,4 +69,85 @@
 }
 .space-evenly{
     justify-content: space-evenly;
+}
+.f-fa{
+    
+        font-family: "Hanken Grotesk", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;     
+}
+li{
+    list-style-type: none;  
+    display: inline;
+    margin-right: 20px;
+    vertical-align: middle;
+    
+
+
+}
+.dx{
+    text-align: right;
+}
+.sx{
+    text-align: left;
+}
+.flex{
+    display: flex;
+}
+.space-btwn{
+    justify-content: space-between;
+}
+.pd10px{
+    padding: 10px;
+}
+.mrg-bt-10{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#btn-blue{
+    background-color: rgba(0,97,255,255);
+    color:white;
+    padding: 5px 10px;
+    font-size: 20px;
+    
+}
+h1{
+    font-size: 100px;
+}
+.blck-arrow{
+    font-size: 60px;
+}
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+    
+}
+.v-align{
+    vertical-align:middle;
+}
+ .img-jumbo{
+    position: absolute;
+ }
+.height-1000{
+    height: 1000px;
+}
+.f-size20{
+    font-size: 25px;
+}
+.mrg-top-100{
+    margin-top: 100px;
+}
+.img-jumbo{
+    width: 1200px;
+    height: auto;
+    padding-top: 50px;
+}
+h2{
+    font-size: 45px;
+}
+.mrg-left-20{
+    margin-left: 20px;
 }
