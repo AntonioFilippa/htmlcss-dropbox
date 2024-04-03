@@ -151,3 +151,22 @@ h2{
 .mrg-left-20{
     margin-left: 20px;
 }
+.t-center{
+    text-align: center;
+}
+.pd-bt-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pd-left-20{
+    padding-left: 20px;
+}
+.mrg-top-10{
+    margin-top: 10px;
+}
+.sttl-bianco{
+    color: lightgrey;
+}
+.mrg-top-50{
+    margin-top: 50px;
+}
